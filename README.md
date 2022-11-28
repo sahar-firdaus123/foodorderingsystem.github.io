@@ -1,7 +1,7 @@
 # Online_Food_Ordering_System 🌭🍕🍔🥪
 
 # Website Link 🔗🔗
-http://khushisharma7.pythonanywhere.com/
+![Food Ordering Website Link](http://khushisharma7.pythonanywhere.com/)
 
 # Information ✅
 This is a Online Food Ordering Website made by using little bit of HTML,CSS and backend usin Django. It helps you to buy yummy food 😋. You can sign-up create your account, login and add items to your cart. Then you can finally proceed to checkout and buy all the yummy food. Don't forget to give a review for all the dishes 😃.
