@@ -27,4 +27,4 @@ This is a Online Food Ordering Website made by using little bit of HTML,CSS and 
 
 # Author Name
 
-**Khushi Sharma**
+**Sahar Firdaus**
